@@ -14,11 +14,11 @@ fill("white")
 textSize(15)
 text("A T A D A S B A", 700,150)
 fill("lightblue")
-text("Hint: Makes things happen !!", 700,180)
+text("Hint: Keep Record Of Data !!", 700,180)
 
 fill("white")
     textSize(15)
     text("C U T N I F O N", 100,340)
     fill("lightblue")
-    text("Hint: Keep Record Of Data", 100,360)
+    text("Hint: Makes Things Happen !!", 100,360)
 }
